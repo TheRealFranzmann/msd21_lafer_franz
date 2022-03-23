@@ -37,9 +37,17 @@ Here you can just quit the program.
 
 I am a junior developer from Styria and I hope you have fun with my little
 simple program.
+My school is the FH - Joanneum
+
+[FH Joanneum](https://www.fh-joanneum.at/)
+
+And this is my GitHub profile!
+
+[GitHub](https://github.com/TheRealFranzmann)
 
 ### Have Fun! 
 
 # Links to other .md files 
 
   - [exercise1](exercise1.md)
+  - [exercise2](exercise2.md)
