@@ -10,7 +10,3 @@ and a "generated sources" folder.
 *Screenshot from my main method*
 
 
-## Link to my online repository
-
-[press here](https://github.com/TheRealFranzmann/msd21_lafer_franz)
-
