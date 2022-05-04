@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println(c.add(2,3));
         System.out.println(c.minus(5,10));
-        System.out.println(c.divide(3,5));
+        System.out.println(c.divide(3,0));
         System.out.println(c.multiply(7,4));
     }
 }
