@@ -12,7 +12,7 @@ public class TestClass {
     double result;
 
     @BeforeEach
-            public void setUp(){
+    public void setUp(){
         c = new Calculator();
     }
 
@@ -47,5 +47,17 @@ public class TestClass {
     @Test
     public void testDivide1(){
         Assertions.assertEquals(2, result = 8 / 4);
+    }
+    @Test
+    public void testFak(){
+        Assertions.assertEquals(0,c.fak(-3));
+    }
+    @Test
+    public void testFak1(){
+        Assertions.assertEquals(6,c.fak(3));
+    }
+    @Test
+    public void testFak2(){
+        Assertions.assertEquals(24,c.fak(4));
     }
 }
