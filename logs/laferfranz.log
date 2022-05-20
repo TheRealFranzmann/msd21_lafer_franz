@@ -1,0 +1,8 @@
+10:12:36.545 [main] DEBUG at.fhj.msd.Calculator - Infinity
+10:12:36.547 [main] ERROR at.fhj.msd.Calculator - Division by zero
+10:12:46.784 [main] DEBUG at.fhj.msd.Calculator - Infinity
+10:12:46.788 [main] ERROR at.fhj.msd.Calculator - Division by zero
+10:12:51.451 [main] DEBUG at.fhj.msd.Calculator - Infinity
+10:12:51.455 [main] ERROR at.fhj.msd.Calculator - Division by zero
+10:14:31.178 [main] DEBUG at.fhj.msd.Calculator - Infinity
+10:14:31.180 [main] ERROR at.fhj.msd.Calculator - Division by zero
