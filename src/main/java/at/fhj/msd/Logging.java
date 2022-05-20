@@ -12,4 +12,7 @@ public class Logging {
     public void infoMessage(){
         logger.info("This is my test info message");
     }
+    public void debugMessage(String msg){
+        logger.debug(msg);
+    }
 }
