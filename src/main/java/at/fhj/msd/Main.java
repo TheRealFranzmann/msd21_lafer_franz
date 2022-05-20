@@ -8,7 +8,11 @@ public class Main {
         System.out.println(c.minus(5,10));
         System.out.println(c.divide(3,0));
         System.out.println(c.multiply(7,4));
+        
+        Logging logging = new Logging();
 
+        logging.errorMessage();
+        logging.infoMessage();
 
     }
 }
