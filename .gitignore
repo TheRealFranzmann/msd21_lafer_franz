@@ -1,10 +1,6 @@
 *.html
 *.pdf
 *.idea
-<<<<<<< HEAD
 *.log
 target
-=======
-target
-*.log
->>>>>>> logging
+
