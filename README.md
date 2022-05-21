@@ -54,3 +54,7 @@ And this is my GitHub profile!
   - [exercise3](exercise3.md)
   - [exercise4](exercise4.md)
   - [exercise5](exercise5.md)
+
+# Templates
+
+- [log4j2.xml.template](recourses/log4j2.xml.template)
